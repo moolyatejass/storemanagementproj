@@ -1,0 +1,99 @@
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe.config
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.pdb
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.xml
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.AssemblyReference.cache
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form1.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Resources.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.GenerateResource.cache
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.CoreCompileInputs.cache
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.exe
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.xml
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.pdb
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Home.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.InsertMobile.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Delete.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Search.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SellMobile.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.UpdatePhone.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form2.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SalesReport.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe.config
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.pdb
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.xml
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.AssemblyReference.cache
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form1.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Home.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.InsertMobile.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Delete.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Search.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SellMobile.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.UpdatePhone.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form2.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SalesReport.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Resources.resources
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.GenerateResource.cache
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.CoreCompileInputs.cache
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.exe
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.xml
+C:\Users\Tejas\OneDrive\Documents\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.pdb
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\itextsharp.dll
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\bin\Debug\itextsharp.xml
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.BillGenerationForm.resources
+C:\Users\Tejas\source\repos\New Mobail Shop\New Mobail Shop\obj\Debug\New Moba.6A0EFDF2.Up2Date
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe.config
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.pdb
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.xml
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\itextsharp.dll
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\bin\Debug\itextsharp.xml
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.AssemblyReference.cache
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form1.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Home.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.InsertMobile.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Delete.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Search.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SellMobile.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.UpdatePhone.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form2.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SalesReport.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.BillGenerationForm.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Resources.resources
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.GenerateResource.cache
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.CoreCompileInputs.cache
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New Moba.6A0EFDF2.Up2Date
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.exe
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.xml
+C:\Users\Tejas\source\repos\Project Backup\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.pdb
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe.config
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.exe
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.pdb
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\New Mobail Shop.xml
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\BouncyCastle.Cryptography.dll
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\itextsharp.dll
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\BouncyCastle.Cryptography.xml
+T:\final project\New Mobail Shop\New Mobail Shop\bin\Debug\itextsharp.xml
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.AssemblyReference.cache
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.exe.config
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form1.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Home.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.InsertMobile.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Delete.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Search.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SellMobile.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.UpdatePhone.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Form2.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.SalesReport.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.BillGenerationForm.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New_Mobail_Shop.Resources.resources
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.GenerateResource.cache
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.vbproj.CoreCompileInputs.cache
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Moba.6A0EFDF2.Up2Date
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.exe
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.xml
+T:\final project\New Mobail Shop\New Mobail Shop\obj\Debug\New Mobail Shop.pdb

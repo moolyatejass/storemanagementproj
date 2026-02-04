@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\final project\\New Mobail Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|t:\\final project\\new mobail shop\\new mobail shop\\09salesreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\09salesreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\billgenerationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\billgenerationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\01login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\01login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\05delete.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\05delete.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\04addproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\04addproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\05delete.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\05delete.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\05delete.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\05delete.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\08update.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\08update.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\07sellmobail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\07sellmobail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\06search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\06search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\03dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\03dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\billgenerationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\billgenerationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\09salesreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\09salesreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\08update.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\08update.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\07sellmobail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\07sellmobail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\06search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\06search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\04addproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\04addproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\03dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\03dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\02resetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\02resetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\02resetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\02resetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|T:\\final project\\New Mobail Shop\\new mobail shop\\01login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E24D69D-E0EC-4AAB-9755-632C3DEE10FE}|New Mobail Shop\\New Mobail Shop.vbproj|solutionrelative:new mobail shop\\01login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "09SalesReport.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\09SalesReport.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\09SalesReport.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\09SalesReport.vb [Design]",
+              "RelativeToolTip": "New Mobail Shop\\09SalesReport.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:53:31.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillGenerationForm.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\BillGenerationForm.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\BillGenerationForm.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\BillGenerationForm.vb [Design]",
+              "RelativeToolTip": "New Mobail Shop\\BillGenerationForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:35:01.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01Login.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\01Login.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\01Login.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\01Login.vb [Design]",
+              "RelativeToolTip": "New Mobail Shop\\01Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:26:52.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05Delete.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\05Delete.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\05Delete.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\05Delete.vb",
+              "RelativeToolTip": "New Mobail Shop\\05Delete.vb",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwLgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:36:56.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "05Delete.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\05Delete.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\05Delete.vb",
+              "ToolTip": "C:\\Users\\Tejas\\source\\repos\\Project Backup\\New Mobail Shop\\New Mobail Shop\\05Delete.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:50:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04AddProduct.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\04AddProduct.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\04AddProduct.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\04AddProduct.vb [Design]",
+              "RelativeToolTip": "New Mobail Shop\\04AddProduct.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:50:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "08Update.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\08Update.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\08Update.vb",
+              "ToolTip": "C:\\Users\\Tejas\\source\\repos\\Project Backup\\New Mobail Shop\\New Mobail Shop\\08Update.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:53:13.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "05Delete.Designer.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\05Delete.Designer.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\05Delete.Designer.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\05Delete.Designer.vb",
+              "RelativeToolTip": "New Mobail Shop\\05Delete.Designer.vb",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwHYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T08:35:26.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "07SellMobail.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\07SellMobail.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\07SellMobail.vb",
+              "ToolTip": "C:\\Users\\Tejas\\source\\repos\\Project Backup\\New Mobail Shop\\New Mobail Shop\\07SellMobail.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:51:00.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "06Search.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\06Search.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\06Search.vb",
+              "ToolTip": "C:\\Users\\Tejas\\source\\repos\\Project Backup\\New Mobail Shop\\New Mobail Shop\\06Search.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:50:58.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "03Dashboard.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\03Dashboard.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\03Dashboard.vb",
+              "ToolTip": "C:\\Users\\Tejas\\source\\repos\\Project Backup\\New Mobail Shop\\New Mobail Shop\\03Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:14:04.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "08Update.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\08Update.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\08Update.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\08Update.vb",
+              "RelativeToolTip": "New Mobail Shop\\08Update.vb",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowLEAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:47:22.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "07SellMobail.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\07SellMobail.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\07SellMobail.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\07SellMobail.vb",
+              "RelativeToolTip": "New Mobail Shop\\07SellMobail.vb",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAkwJEBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:43:17.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BillGenerationForm.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\BillGenerationForm.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\BillGenerationForm.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\BillGenerationForm.vb",
+              "RelativeToolTip": "New Mobail Shop\\BillGenerationForm.vb",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAowLoBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:35:30.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "06Search.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\06Search.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\06Search.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\06Search.vb",
+              "RelativeToolTip": "New Mobail Shop\\06Search.vb",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwHoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:40:31.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "09SalesReport.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\09SalesReport.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\09SalesReport.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\09SalesReport.vb",
+              "RelativeToolTip": "New Mobail Shop\\09SalesReport.vb",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowGIAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:50:22.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "04AddProduct.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\04AddProduct.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\04AddProduct.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\04AddProduct.vb",
+              "RelativeToolTip": "New Mobail Shop\\04AddProduct.vb",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwF0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:34:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "03Dashboard.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\03Dashboard.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\03Dashboard.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\03Dashboard.vb",
+              "RelativeToolTip": "New Mobail Shop\\03Dashboard.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T07:14:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "02ResetPassword.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\02ResetPassword.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\02ResetPassword.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\02ResetPassword.vb",
+              "RelativeToolTip": "New Mobail Shop\\02ResetPassword.vb",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAgwPAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:30:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "02ResetPassword.vb [Design]",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\02ResetPassword.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\02ResetPassword.vb",
+              "ToolTip": "C:\\Users\\Tejas\\source\\repos\\Project Backup\\New Mobail Shop\\New Mobail Shop\\02ResetPassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:30:21.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "01Login.vb",
+              "DocumentMoniker": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\01Login.vb",
+              "RelativeDocumentMoniker": "New Mobail Shop\\01Login.vb",
+              "ToolTip": "T:\\final project\\New Mobail Shop\\New Mobail Shop\\01Login.vb",
+              "RelativeToolTip": "New Mobail Shop\\01Login.vb",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-08T19:26:53.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
